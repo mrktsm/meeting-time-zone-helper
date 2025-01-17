@@ -1,5 +1,8 @@
 # Meeting Time Zone Helper
+
 <img src="https://github.com/user-attachments/assets/0008b962-6caf-4531-b413-424ef2e77080" width="700" />
+
+🏆 **G-HACKS 2024 Winner**
 
 This web app helps you find the best overlapping meeting times across different time zones.
 
